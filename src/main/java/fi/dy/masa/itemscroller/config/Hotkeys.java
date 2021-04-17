@@ -49,7 +49,7 @@ public class Hotkeys
     public static final ConfigHotkey MODIFIER_MOVE_EVERYTHING   = new ConfigHotkey("modifierMoveEverything", "LEFT_ALT,LEFT_SHIFT", GUI_NO_ORDER, "Modifier key to move ALL items to the other\ninventory when scrolling over a stack");
     public static final ConfigHotkey MODIFIER_MOVE_MATCHING     = new ConfigHotkey("modifierMoveMatching",   "LEFT_ALT", GUI_NO_ORDER, "Modifier key to move all matching items to the other\ninventory when scrolling over a stack");
     public static final ConfigHotkey MODIFIER_MOVE_STACK        = new ConfigHotkey("modifierMoveStack",      "LEFT_SHIFT", GUI_NO_ORDER, "Modifier key to move the entire stack to the other\ninventory when scrolling over it");
-    public static final ConfigHotkey MODIFIER_TOGGLE_VILLAGER_GLOBAL_FAVORITE = new ConfigHotkey("modifierToggleVillagerGlobalFavorite", "LEFT_SHIFT", GUI_RELAXED, "Modifier key to hold while middle clicking a trade,\nto toggle the global favorite state for that trade.\nGlobal favorites are used for villagers that don't have any specific favorites set.");
+    public static final ConfigHotkey MODIFIER_TOGGLE_VILLAGER_GLOBAL_FAVORITE = new ConfigHotkey("modifierToggleVillagerGlobalFavorite", "", GUI_RELAXED, "Modifier key to hold while middle clicking a trade,\nto toggle the global favorite state for that trade.\nGlobal favorites are used for villagers that don't have any specific favorites set.");
 
     public static final List<ConfigHotkey> HOTKEY_LIST = ImmutableList.of(
             KEY_OPEN_CONFIG_GUI,
@@ -57,7 +57,6 @@ public class Hotkeys
             MODIFIER_MOVE_EVERYTHING,
             MODIFIER_MOVE_MATCHING,
             MODIFIER_MOVE_STACK,
-            MODIFIER_TOGGLE_VILLAGER_GLOBAL_FAVORITE,
 
             KEY_MOVE_EVERYTHING,
 
@@ -80,7 +79,6 @@ public class Hotkeys
             KEY_SLOT_DEBUG,
             KEY_STORE_RECIPE,
             KEY_THROW_CRAFT_RESULTS,
-            KEY_VILLAGER_TRADE_FAVORITES,
 
             KEY_WS_MOVE_DOWN_LEAVE_ONE,
             KEY_WS_MOVE_DOWN_MATCHING,
