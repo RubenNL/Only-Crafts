@@ -1,10 +1,11 @@
-Item Scroller
+~~Item Scroller~~ Only-Crafts
 ==============
-Item Scroller is a tiny mod for Minecraft 1.8.9+, which adds the functionality of moving items in inventory GUIs
+Download: 
+~~Item Scroller~~ Only-Crafts is a tiny mod for Minecraft 1.16.4+, which adds the functionality of moving items in inventory GUIs
 by scrolling the mouse wheel over slots with items in them.
 This is basically what NEI does/did (and Mouse Tweaks also seems to do), but separated into this tiny mod,
 and probably implemented in a different manner.
-For more information and the downloads (compiled builds), see http://minecraft.curseforge.com/projects/item-scroller
+For more information about the mod this mods basically is but just has villager trading support removed, see http://minecraft.curseforge.com/projects/item-scroller
 
 Compiling
 =========
