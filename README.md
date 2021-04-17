@@ -1,6 +1,6 @@
 ~~Item Scroller~~ Only-Crafts
 ==============
-Download: https://github.com/mexiscool/Only-Crafts/releases/download/Only-Crafts-fabric-1.16.4/Only-Crafts-fabric-1.16.4.jar
+Download: https://github.com/mexiscool/Only-Crafts/releases/download/1.0/Only-Crafts-1.16.4-0.15.0-dev.20210417.045150.jar
 ==============
 ~~Item Scroller~~ Only-Crafts is a tiny mod for Minecraft 1.16.4+, which adds the functionality of moving items in inventory GUIs
 by scrolling the mouse wheel over slots with items in them.
