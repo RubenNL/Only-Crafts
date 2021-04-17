@@ -1,7 +1,7 @@
 {
     "schemaVersion": 1,
-    "id": "onlycrafts",
-    "name": "Only Crafts",
+    "id": "only-crafts",
+    "name": "Only-Crafts",
     "version": "${mod_version}",
 
     "description": "Move items in inventory GUIs by scrolling the mouse wheel or dragging over slots",
