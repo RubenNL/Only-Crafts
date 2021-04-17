@@ -7,6 +7,7 @@ by scrolling the mouse wheel over slots with items in them.
 This is basically what NEI does/did (and Mouse Tweaks also seems to do), but separated into this tiny mod,
 and probably implemented in a different manner.
 For more information about the mod this mods basically is but just has villager trading support removed, see http://minecraft.curseforge.com/projects/item-scroller
+Note: masa is awesome!
 
 Compiling
 =========
